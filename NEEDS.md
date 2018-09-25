@@ -21,4 +21,4 @@ The project must include these features:
 
 The product shoud manage the relationship between object, for example this is a study case :
 
-![relationship](img/cmdb_graph_switch2server.png "Switch -> port -> server")
+<center><img src="img/cmdb_graph_switch2server.png"></center>
