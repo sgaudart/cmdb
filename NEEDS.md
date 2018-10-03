@@ -2,6 +2,12 @@
 
 ## Introduction
 
+My point of view :
+
+A CMDB provides an organized view of your network's configuration data and a way to examine that data from any perspective.
+
+## Most important features
+
 I would like to develop a project to design a CMDB tool with the following features:
 - flexible
 - ergonomic = nice frontend to use
@@ -20,5 +26,7 @@ The project must include these features:
 ### Feature CI relationship
 
 The product shoud manage the relationship between object, for example this is a study case :
+
+The CMDB must be able to provide relevant information about the impact analysis (if this server falls, which service is impacted behind it?)
 
 <center><img src="img/cmdb_graph_switch2server.png"></center>
